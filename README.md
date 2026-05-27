@@ -1,6 +1,7 @@
 ## Hi, im Esteban 👋
 
 <!--[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youTube.com/@DotDager)-->
+![Static Badge](https://img.shields.io/badge/-Web-orange?style=for-the-badge&link=estebansonaglioni.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-sonaglioni-9211297b/)
 [![IG](https://img.shields.io/badge/IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleman.sona/)
 [![Prode](https://img.shields.io/badge/Prode-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://prode-frontend-drab.vercel.app/)
